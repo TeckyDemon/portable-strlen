@@ -22,7 +22,7 @@ Clone this repository:
 
 ## Authors
 
-* **Michał "DeBos" Wróblewski** - Main Developer - [DeBos99](https://github.com/DeBos99)
+* **Michał Wróblewski** - Main Developer - [DeBos99](https://github.com/DeBos99)
 
 ## License
 
