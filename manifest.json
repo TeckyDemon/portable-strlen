@@ -3,7 +3,7 @@
     "name": "Portable Strlen",
 	"description": "Portable strlen function.",
 	"version": "1.0",
-	"author": "Michał \"DeBos\" Wróblewski",
+	"author": "Michał Wróblewski",
 	"icons": {
 		"16": "./assets/icons/icon-16x16.png",
 		"48": "./assets/icons/icon-48x48.png",
