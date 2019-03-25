@@ -2,6 +2,13 @@
 
 **Portable Strlen** is an chrome browser extension that provides simple strlen function.
 
+- [Content](#content)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [TODO](#todo)
+- [Authors](#authors)
+- [License](#license)
+
 ## Prerequisites
 
 Install Google Chrome Browser: https://www.google.com/chrome/
