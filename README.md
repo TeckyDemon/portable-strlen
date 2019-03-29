@@ -17,7 +17,7 @@ Install Google Chrome Browser: https://www.google.com/chrome/
 
 Clone this repository:
 
-`$ git clone "https://github.com/DeBos99/portable-strlen.git"`
+`git clone "https://github.com/DeBos99/portable-strlen.git"`
 
 1. Open Google Chrome Browser.
 2. Go to chrome://extensions/
