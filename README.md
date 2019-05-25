@@ -1,5 +1,7 @@
 # Portable Strlen
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 **Portable Strlen** is an chrome browser extension that provides simple strlen function.
 
 ## Content
