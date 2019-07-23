@@ -1,0 +1,8 @@
+*
+!.gitignore
+!assets/icons/*
+!scripts/*
+!views/*
+!LICENSE
+!manifest.json
+!README.md
